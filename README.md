@@ -44,7 +44,7 @@ This tool helps job seekers understand:
 
 ```bash
 git clone https://github.com/your-username/ats-vs-recruiter-resume-simulator.git
-cd ats-vs-recruiter-resume-simulator
+cd ats-vs-recruiter-resume-simulator ```
 
 <img width="1512" height="982" alt="Screenshot 2026-01-31 at 10 04 51 AM" src="https://github.com/user-attachments/assets/fb72549a-18c7-4916-8738-31e7ce9d0633" />
 <img width="1512" height="982" alt="Screenshot 2026-01-31 at 10 05 57 AM" src="https://github.com/user-attachments/assets/b9cb0150-da41-48db-b46d-afadb5b33bf4" />
